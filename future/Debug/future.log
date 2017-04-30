@@ -1,0 +1,5 @@
+﻿  future.cpp
+c:\users\air\desktop\摩根\future-edi1\future\future.cpp(168): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\air\desktop\摩根\future-edi1\future\future.cpp(182): warning C4018: “<”: 有符号/无符号不匹配
+  future.vcxproj -> C:\Users\Air\Desktop\摩根\future-edi1\Debug\future.exe
+  future.vcxproj -> C:\Users\Air\Desktop\摩根\future-edi1\Debug\future.pdb (Full PDB)
